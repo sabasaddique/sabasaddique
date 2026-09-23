@@ -1,188 +1,98 @@
-````markdown
-<div align="center">
-
 # 👋 Hi, I'm Saba Saddique
 
-### 💻 Computer Science Student • 🤖 Aspiring AI Engineer
+### 💻 Computer Science Student | 🤖 Aspiring AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Learning+Python;Building+Practical+Projects;Exploring+Artificial+Intelligence;Working+Toward+AI+Engineering" />
+I'm a Computer Science student passionate about **Artificial Intelligence, programming, and building practical technology**.
 
-</div>
+I'm focused on developing strong programming fundamentals, learning through hands-on projects, and gradually progressing toward **Machine Learning, Generative AI, and AI Engineering**.
 
 ---
 
 ## 🧠 About Me
 
-> **Computer Science student focused on Python, problem solving, and Artificial Intelligence.**
-
-- 🎓 Computer Science Student
-- 🐍 Currently learning **Python & Programming Fundamentals**
-- 🧩 Practicing **Data Structures, Algorithms & Problem Solving**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🎓 Computer Science student
+- 🐍 Learning Python and strengthening programming fundamentals
+- 🧩 Practicing Data Structures, Algorithms, and problem solving
+- 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🛠️ Building practical software projects
-- 📚 Learning through projects, experimentation, and consistency
-- 🚀 Working toward becoming an **AI Engineer**
+- 📚 Learning by building, experimenting, and improving
+- 🚀 Working toward a career in AI Engineering
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
-### 💻 Currently Using
+### Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
-
-### 🤖 Future Focus
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch&theme=dark" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 What I'm Building
 
 ### 🧮 Python Projects
-A collection of Python exercises and practical programs focused on:
-
-`Python` • `Functions` • `Loops` • `Data Structures` • `Problem Solving`
-
----
+Small projects and programming exercises focused on strengthening Python fundamentals, logic, functions, data structures, and problem solving.
 
 ### 🎓 Student Management System
-
 A practical Python project for managing student information and practicing CRUD operations.
 
-**Focus:**  
-`Python` • `CRUD` • `Data Management` • `Problem Solving`
-
----
-
 ### 💰 Expense Tracker
-
-A practical application for recording and managing expenses while strengthening Python and data-handling skills.
-
-**Focus:**  
-`Python` • `Functions` • `Data Structures`
-
----
+A practical application for managing expenses while improving programming and data-handling skills.
 
 ### 📄 Chat with PDFs
-
-An AI-focused project exploring how users can interact with documents and receive information-based answers with citations.
-
-**Planned Focus:**  
-`Python` • `LLMs` • `RAG` • `Document Processing`
-
----
+An AI-focused project exploring document interaction, information retrieval, and citation-based answers.
 
 ### 🏫 School Management System
+A larger real-world software project focused on managing students, teachers, classes, and school records.
 
-A larger real-world software project designed around managing students, teachers, classes, and school records.
-
-**Planned Focus:**  
-`Python` • `Database` • `CRUD` • `Automation`
+> More projects will be added as I continue learning and building.
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Python
-├── Programming Fundamentals
-├── Functions
-├── Loops
-├── Data Structures
-├── CRUD
-└── Problem Solving
-
-Next
-├── NumPy
-├── Pandas
-├── Machine Learning
-├── Deep Learning
-├── Generative AI
-└── AI Engineering
-````
+**Python** • **Data Structures & Algorithms** • **Problem Solving** • **Machine Learning** • **Deep Learning** • **Generative AI** • **Git & GitHub**
 
 ---
 
 ## 🎯 Career Direction
 
-My goal is to become an **AI Engineer** capable of building practical and intelligent software solutions.
+My goal is to become a skilled **AI Engineer** who can turn ideas into practical, intelligent software solutions.
 
-```text
-Computer Science
-       ↓
-Python
-       ↓
-Data Structures & Algorithms
-       ↓
-Machine Learning
-       ↓
-Deep Learning
-       ↓
-Generative AI
-       ↓
-AI Engineering
-```
+I'm building my career step by step:
+
+**Computer Science Fundamentals → Python → Data Structures & Algorithms → Machine Learning → Deep Learning → Generative AI → AI Engineering**
 
 ---
 
-## 💡 My Approach
+## 💡 How I Learn
 
-<div align="center">
+I believe the best way to learn technology is to **understand the fundamentals, build real projects, solve problems, and continuously improve**.
 
-### Learn → Build → Solve → Improve
-
-</div>
-
-I believe strong fundamentals combined with consistent project building are the foundation for becoming a strong engineer.
+**Learn → Build → Solve → Improve**
 
 ---
 
-## 📊 GitHub Stats
+## 📈 My GitHub Journey
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
-
-</div>
+GitHub is where I document my learning, build projects, experiment with technology, and develop a portfolio of practical work.
 
 ---
 
-## 📈 GitHub Journey
+## 🤝 Let's Connect
 
-GitHub is where I document my learning, experiment with technology, build projects, and gradually develop my software engineering portfolio.
+I'm interested in **Artificial Intelligence, Python, software development, automation, and emerging technologies**.
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+Feel free to explore my repositories and follow my journey as I learn, build, and grow in technology.
 
 ---
 
-<div align="center">
+### ⭐ Thanks for visiting my profile!
 
-### 🖤 Thanks for visiting my profile
-
-**Learning deeply. Building consistently. Creating with AI.**
-
-</div>
-```
-
-**Important:** replace every `YOUR_USERNAME` with your actual GitHub username.
-
-Also, I deliberately kept **NumPy, Pandas, Scikit-learn, and PyTorch under “Future Focus”** rather than presenting them as skills you already know. That makes the profile look professional **without overstating your current level**.
+> **Learning deeply. Building consistently. Creating with AI.**
