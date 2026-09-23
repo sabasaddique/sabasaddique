@@ -1,18 +1,84 @@
-# 💫 About Me:
-I'm Saba Saddique, a Computer Science student passionate about Artificial Intelligence, programming, and building useful technology.<br><br>🐍 Currently learning Python, Data Structures & Algorithms<br>🤖 Exploring Machine Learning, Deep Learning & Generative AI<br>🛠️ Building practical software and AI projects<br>🧠 Interested in problem solving, automation & intelligent systems<br>🚀 Working toward becoming an AI Engineer
+# 👋 Hi, I'm Saba Saddique
 
+### 💻 Computer Science Student | 🤖 Aspiring AI Engineer
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sabasaddique&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sabasaddique&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sabasaddique&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Science student passionate about **Artificial Intelligence, programming, and building practical technology**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sabasaddique&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm currently strengthening my foundations in **Python, problem solving, and Computer Science**, while exploring **Machine Learning and Generative AI** through hands-on projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=sabasaddique&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 Computer Science student
+- 🐍 Learning Python & programming fundamentals
+- 🧩 Practicing Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🛠️ Building practical software projects
+- 🚀 Working toward becoming an AI Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+</p>
+
+### Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pytorch" alt="NumPy, PyTorch" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🧮 Python Calculator
+A Python project built to practice programming fundamentals, operators, conditions, functions, and user input.
+
+### 💰 Expense Tracker
+A practical project for recording and managing expenses while strengthening Python programming skills.
+
+### 🎓 Student Management System
+A Python project focused on student records and CRUD operations.
+
+### 📄 Chat with PDFs
+An AI-focused project exploring document interaction and information retrieval with citations.
+
+### 🏫 School Management System
+A larger project focused on managing students, teachers, classes, and school-related information.
+
+---
+
+## 📚 Currently Learning
+
+**Python** • **Data Structures & Algorithms** • **Machine Learning** • **Deep Learning** • **Generative AI** • **Git & GitHub**
+
+---
+
+## 🎯 Career Direction
+
+I'm working toward becoming an **AI Engineer**, with a focus on building practical and intelligent software solutions.
+
+My approach is simple:
+
+**Learn → Build → Solve → Improve**
+
+---
+
+## 📈 GitHub Journey
+
+GitHub is where I document my learning, build projects, experiment with technology, and grow as a developer.
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+> **Learning deeply. Building consistently. Creating with AI.**
